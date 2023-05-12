@@ -14,6 +14,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirillDyachkovskiy&layout=compact)](https://github.com/KirillDyachkovskiy/github-readme-stats)
 
+### Leetcode stats:
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/KirillDyachkovskiy?theme=dark&font=Blinker&ext=heatmap)
+
 ### Contacts:
 * [![Telegramm](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white)](https://t.me/kirillmohno185)
 
